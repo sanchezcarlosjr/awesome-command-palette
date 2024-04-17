@@ -2,7 +2,7 @@
 
 # Awesome Command Palette
 
-> A list of awesome command palette implementations. Alternatives names to ```command palette``` are ```Command K Bars```, ```Command Bars```, and ```Omni-bars```.
+> A list of awesome command palette implementations. Alternatives names to ```command palette``` are ```Command K Bars```, ```Command Bars```, ```Omni-bars```, and ```Omnibox```.
 
 ## Articles
 - https://maggieappleton.com/command-bar
@@ -75,3 +75,4 @@
 - [react-cmdk](https://github.com/albingroen/react-cmdk) – A fast, accessible, and pretty command palette for React.
 - [CLUI](https://github.com/replit/clui) - CLUI is a collection of JavaScript libraries for building command-driven interfaces with context-aware autocomplete.
 - https://www.commandbar.com/
+- https://marmelab.com/react-admin/Search.html
