@@ -2,7 +2,18 @@
 
 # Awesome Command Palette
 
-> A list of awesome command palette implementations.
+> A list of awesome command palette implementations. Alternatives names to ```command palette``` are ```Command K Bars```, ```Command Bars```, and ```Omni-bars```.
+
+## Articles
+- https://maggieappleton.com/command-bar
+- https://blog.replit.com/clui
+- https://chriscoyier.net/2022/12/18/command-bars/
+- https://capiche.com/e/consumer-dev-tools-command-palette
+- https://blog.superhuman.com/how-to-build-a-remarkable-command-palette/
+- https://gabygoldberg.medium.com/the-command-line-comeback-9857b49c7423
+- https://jnd.org/ui_breakthrough-command_line_interfaces/
+- https://rosswintle.uk/2022/12/the-new-turbo-admin/
+- https://maggieappleton.com/command-bar
 
 ## Sites implementing a command palette
 
@@ -14,12 +25,17 @@
 - [CircleCI](https://app.circleci.com) - <kbd>Ctrl / Cmd</kbd> + <kbd>k</kbd>
 - [Todoist](https://todoist.com/app/) - <kbd>Ctrl / Cmd</kbd> + <kbd>k</kbd>
 - [Webflow](https://webflow.com/) -  <kbd>Ctrl / Cmd</kbd> + <kbd>e</kbd>
+- https://www.framer.com/
+- https://tana.inc/
+- https://linear.app/
+- https://todoist.com/
 
 ## Browser extensions adding a command palette
 
 - [Omni](https://github.com/alyssaxuu/omni) (Chrome extension)
 - [Vimium](https://github.com/philc/vimium) (Chrome and Firefox extension)
 - [hackbar](https://github.com/uier/hackbar) (Chrome extension) for using kbar in HackMD
+- https://lazy.so/
 
 ## Apps implementing a command palette
 
@@ -37,9 +53,15 @@
 - [Obsidian](https://obsidian.md) - <kbd>Ctrl / Cmd</kbd> + <kbd>p</kbd>
 
 ## Command palette for OS
+### MAC OS
+- https://qsapp.com/
 - [Raycast](https://www.raycast.com/) a blazingly fast, totally extendable launcher (currently MacOS only)
 - [Alfred](https://www.alfredapp.com/) a productivity app with lots of custom actions to control your Mac. (MacOS only)
 - [Harmonize](https://www.getharmonize.app/) a turbocharged Spotify command palette (MacOS only)
+### Linux
+- [KRunner](https://userbase.kde.org/Plasma/Krunner)
+- [Cerebro](https://www.cerebroapp.com/)
+- [Albert](https://albertlauncher.github.io/)
 
 ## Libraries
 
@@ -51,3 +73,5 @@
 - [kmenu](https://github.com/harshhhdev/kmenu) - An animated and accessible cmd+k interface.
 - [cmdk](https://github.com/pacocoursey/cmdk) - Fast, composable, unstyled command menu for React.
 - [react-cmdk](https://github.com/albingroen/react-cmdk) – A fast, accessible, and pretty command palette for React.
+- [CLUI](https://github.com/replit/clui) - CLUI is a collection of JavaScript libraries for building command-driven interfaces with context-aware autocomplete.
+- https://www.commandbar.com/
