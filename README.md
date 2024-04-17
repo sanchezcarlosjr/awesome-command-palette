@@ -76,3 +76,4 @@
 - [CLUI](https://github.com/replit/clui) - CLUI is a collection of JavaScript libraries for building command-driven interfaces with context-aware autocomplete.
 - https://www.commandbar.com/
 - https://marmelab.com/react-admin/Search.html
+- https://www.algolia.com/doc/ui-libraries/autocomplete/introduction/what-is-autocomplete/
