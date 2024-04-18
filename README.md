@@ -14,6 +14,7 @@
 - https://jnd.org/ui_breakthrough-command_line_interfaces/
 - https://rosswintle.uk/2022/12/the-new-turbo-admin/
 - https://maggieappleton.com/command-bar
+- https://supabase.com/blog/chatgpt-supabase-docs
 
 ## Sites implementing a command palette
 
@@ -29,6 +30,7 @@
 - https://tana.inc/
 - https://linear.app/
 - https://todoist.com/
+- https://supabase.com
 
 ## Browser extensions adding a command palette
 
@@ -55,9 +57,9 @@
 ## Command palette for OS
 ### MAC OS
 - https://qsapp.com/
-- [Raycast](https://www.raycast.com/) a blazingly fast, totally extendable launcher (currently MacOS only)
-- [Alfred](https://www.alfredapp.com/) a productivity app with lots of custom actions to control your Mac. (MacOS only)
-- [Harmonize](https://www.getharmonize.app/) a turbocharged Spotify command palette (MacOS only)
+- [Raycast](https://www.raycast.com/) a blazingly fast, totally extendable launcher.
+- [Alfred](https://www.alfredapp.com/) a productivity app with lots of custom actions to control your Mac.
+- [Harmonize](https://www.getharmonize.app/) a turbocharged Spotify command palette.
 ### Linux
 - [KRunner](https://userbase.kde.org/Plasma/Krunner)
 - [Cerebro](https://www.cerebroapp.com/)
