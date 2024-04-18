@@ -2,7 +2,7 @@
 
 # Awesome Command Palette
 
-> A list of awesome command palette implementations. Alternative names to ```command palette``` are ```Command K Bars```, ```Command Bars```, ```Omni-bars```, and ```Omnibox```.
+> A list of awesome command palette implementations. They're also known as 'command bars', 'command launchers', or 'omniboxes'
 
 ## Articles
 - https://maggieappleton.com/command-bar
