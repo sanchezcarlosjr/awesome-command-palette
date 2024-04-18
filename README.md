@@ -15,6 +15,8 @@
 - https://rosswintle.uk/2022/12/the-new-turbo-admin/
 - https://maggieappleton.com/command-bar
 - https://supabase.com/blog/chatgpt-supabase-docs
+- https://bootcamp.uxdesign.cc/command-palette-ux-patterns-1-d6b6e68f30c1
+- https://retool.com/blog/designing-the-command-palette
 
 ## Sites implementing a command palette
 
