@@ -67,7 +67,7 @@
 - [Cerebro](https://www.cerebroapp.com/)
 - [Albert](https://albertlauncher.github.io/)\
 
-# Command Palette as an OS
+## Command Palette as an OS
 - https://www.mercuryos.com/
 
 ## Libraries
