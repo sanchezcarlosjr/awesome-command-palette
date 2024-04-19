@@ -65,7 +65,10 @@
 ### Linux
 - [KRunner](https://userbase.kde.org/Plasma/Krunner)
 - [Cerebro](https://www.cerebroapp.com/)
-- [Albert](https://albertlauncher.github.io/)
+- [Albert](https://albertlauncher.github.io/)\
+
+# Command Palette as an OS
+- https://www.mercuryos.com/
 
 ## Libraries
 
