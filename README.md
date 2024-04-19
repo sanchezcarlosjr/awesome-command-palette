@@ -84,3 +84,6 @@
 - https://www.commandbar.com/
 - https://marmelab.com/react-admin/Search.html
 - https://www.algolia.com/doc/ui-libraries/autocomplete/introduction/what-is-autocomplete/
+
+# Command Palettes with AI
+- https://superhuman.com/
