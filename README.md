@@ -80,6 +80,7 @@
 - [kmenu](https://github.com/harshhhdev/kmenu) - An animated and accessible cmd+k interface.
 - [cmdk](https://github.com/pacocoursey/cmdk) - Fast, composable, unstyled command menu for React.
 - [react-cmdk](https://github.com/albingroen/react-cmdk) – A fast, accessible, and pretty command palette for React.
+- https://kentcdodds.github.io/genie/
 - [CLUI](https://github.com/replit/clui) - CLUI is a collection of JavaScript libraries for building command-driven interfaces with context-aware autocomplete.
 - https://www.commandbar.com/
 - https://marmelab.com/react-admin/Search.html
